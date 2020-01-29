@@ -3,4 +3,4 @@
 * [Initial page](README.md)
 * [Untitled](untitled/README.md)
   * [Untitled](untitled/untitled.md)
-
+* [CSCI585](CSCI585/README.md)
