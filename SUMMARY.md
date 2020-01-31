@@ -4,3 +4,4 @@
 * [Untitled](untitled/README.md)
   * [Untitled](untitled/untitled.md)
 * [CSCI585](CSCI585/README.md)
+  * [Entity Relationship](\CSCI585\ER.md)
