@@ -1,10 +1,8 @@
 # Table of contents
 
 * [README](README.md)
-* [Untitled](untitled/README.md)
-  * [Untitled](untitled/untitled.md)
 * [CSCI585](csci585/README.md)
-  * [Entity Relationship](CSCI585/ER.md)
+  * [Entity Relationship](csci585/er.md)
 * [Json](json/README.md)
   * [Json](json/json.md)
 
