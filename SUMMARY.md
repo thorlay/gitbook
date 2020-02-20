@@ -13,6 +13,9 @@
   
   * [Forms-and-CGI](csci571/Forms-and-CGI.md)
   
+  * [The-HTTP-Protocol](csci571/The-HTTP-Protocol.md)
+  
+  * [The Web Server](csci571/10-The Web Server.md)
     
   
     
