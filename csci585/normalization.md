@@ -1,4 +1,4 @@
-# Normalization
+# Ch6. Normalization
 
 * Goal: Reduce redundancies, anomalies
 * Evaluating and correcting table structures to minimize data redundancies
