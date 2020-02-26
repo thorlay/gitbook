@@ -1,4 +1,4 @@
-# Extended ER
+# Ch5. Extended ER
 
 * Result of adding more semantic constructs to the original entity relationship model
 * EER diagram: Uses the EER model
