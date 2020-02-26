@@ -39,11 +39,11 @@ Chen's model and crow's foot model
 * Connectivity: 1:1, 1:M or M:N \(three diff ways by which two entities are related\).
 * Cardinality: \(min,max\) for 1:1, 1:M or M:N \(eg. 1:1 can have \(1,0\) as its cardinality, 1:M can have \(0,4\) as its cardinality\). Sometimes, min is called 'modality' \(and max is cardinality\). The 'inside' symbols denotes min, and the outside ones, max.
 
-### Existence Dependence
+### Existence Dependence\(Entity\)
 
 * existence dependence: Entity exists in the database only when it is associated with another related entity occurrence
 * Existence independence: Entity exists apart from all of its related entities, referred to as a **strong entity or regular entity**
-* NOTE: Existence independence implies a strong entity; but, existence dependence \(alone, ie. by itself\) does NOT imply a weak entity \(there needs to be one more condition, based on 'relationship strength', for it to become 'weak'\).
+* NOTE: Existence independence implies a **strong entity**; but, existence dependence \(alone, ie. by itself\) does NOT imply a **weak entity** \(there needs to be one more condition, based on 'relationship strength', for it to become 'weak'\).
 
 ### Weak vs strong relationship
 
@@ -61,7 +61,7 @@ Chen's model and crow's foot model
 ### Relationship Participation
 
 * optional participation
-  * one entity occurrence does not require a corresponding entity occurrence in a particular relationship
+  * one entity occurrence does not require a corresponding entity occurrence in a particular relationship 
 * mandatory participation
   * one entity occurrence requires a corresponding entity occurrence in a particular relationship.
 
@@ -80,7 +80,7 @@ Chen's model and crow's foot model
 * Also known as composite or bridge entities
 * Used to represent an M:N relationship between two or more entities.
 * Is in a 1:M relationship with the parent entities 
-  * Composed of the primary key attributes of each parent entity
+  * **Composed of the primary key attributes of each parent entity**
 * May also contain additional attributes that paly no role in connective process.
 
 ## Developing an ER diagram
