@@ -27,6 +27,16 @@
   * A inapplicable condition
 * Referential integrity: Every reference to an entity instance by another entity instance is valid.
 
+## Keys: many types
+
+* primary \(foreign\) keys are a subset of candidate keys are a subset of superkeys \(note - superkeys could be 'wasteful', ie. contain superfluous, non-needed attrs\)
+*  simple keys vs compound keys vs composite keys
+* natural keys - keys that are created from real-world entities \(eg. for a US resident, their SSN could be a natural key\)
+* surrogate keys \(just make up brand new unique keys\)
+* secondary, or 'alternate' keys
+
+You can read a bit more keys [here.](http://www.agiledata.org/essays/keys.html)
+
 ### Determination:
 
 * state in which knowing the value of one attribute makes it possible to determine the value of another.
