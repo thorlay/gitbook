@@ -1,4 +1,4 @@
-# Entity Relationship
+# Ch3. Entity Relationship
 
 * ERD depicts the:
   * Conceptual database as viewed by end user
