@@ -1,5 +1,15 @@
 # Ch6. Normalization
 
+### Learning goal
+
+* What normalization is and what role it plays in the database design process
+* About the normal forms 1NF, 2NF, 3NF, BCNF, and 4NF
+* How normal forms can be transformed from lower normal forms to higher normal forms
+* That normalization and ER modeling are used concurrently to produce a good database design
+* That some situations require denormalization to generate information efficiently
+
+
+
 * Goal: Reduce redundancies, anomalies
 * Evaluating and correcting table structures to minimize data redundancies
 * Reduces data anomalies
@@ -10,9 +20,10 @@
   * Third normal form\(3NF\)
 * Structural point of view of normal forms
   * Higher normal forms are better than lower normal forms 
+  * Higher normal forms means a cleaner design.
 * Properly designed 3NF structures meet the requirement of fourth normal form\(4NF\)
 * Denormalization: Produces a lower normal form 
-  * Results in increased performance and greater data redundancy
+  * **Results in increased performance and greater data redundancy**
 
 ### Need for Normalization
 
