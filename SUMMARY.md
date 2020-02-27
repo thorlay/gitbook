@@ -9,6 +9,7 @@
   * [Ch5. Extended ER](csci585/extended-er.md)
   * [Ch6. Normalization](csci585/normalization.md)
   * [Ch10. Transaction Mangement](csci585/ch10.-transaction-mangement.md)
+  * [Ch12. Distributed Database](csci585/ch12.-distributed-database.md)
   * [Ch7. SQL](csci585/sql.md)
 * [csci571](csci571/README.md)
   * [Untitled](csci571/untitled.md)
