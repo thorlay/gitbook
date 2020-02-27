@@ -51,11 +51,13 @@ Chen's model and crow's foot model
   * eg. class to course
 * Strong relationships: primary key of the related entity contains a primary key component of the parent entity.
 
+![](../.gitbook/assets/image%20%286%29.png)
+
 ### Weak entity
 
 * Condition: 
-  * Existence-dependent 
-  * has a primary key that is a partially or totally derived from parent entity in the relationship
+  * The entity is existence-dependent; it cannot exist without the entity with which it has a relationship. 
+  * The entity has a primary key that is partially or totally derived from the parent entity in the relationship.
 * Database designer determines whether an entity is weak based on business rules
 
 ### Relationship Participation

@@ -10,6 +10,7 @@
   * [Ch6. Normalization](csci585/normalization.md)
   * [Ch10. Transaction Mangement](csci585/ch10.-transaction-mangement.md)
   * [Ch12. Distributed Database](csci585/ch12.-distributed-database.md)
+  * [Ch14. Database connectivity](csci585/ch14.-database-connectivity.md)
   * [Ch7. SQL](csci585/sql.md)
 * [csci571](csci571/README.md)
   * [Untitled](csci571/untitled.md)
