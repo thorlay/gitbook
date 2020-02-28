@@ -2,13 +2,13 @@
 
 ## Logical View of data
 
-* relational database model enables logical representation of the data and its realtionships.
+* relational database model enables logical representation of the data and its relationships.
 * logical simplicity yields simple and effective database design methodologies 
-* facilitated by the creation of data relationships based on a logical construct called a realtion
+* facilitated by the creation of data relationships based on a logical construct called a relation
 
 ###  🔑 Keys
 
-* consist of one or more attributes that determine other attributes 
+* Consist of one or more attributes that determine other attributes 
 * Used to :
   * ensure that each row in a table is uniquely identifiable 
   * establish relationships among tables and to ensure the integrity of the data
@@ -16,13 +16,13 @@
 
 #### Types of Keys
 
-* composite key: Key that is composed of more than one attribtue
+* composite key: Key that is composed of more than one attribute
 * Key attribute : Attribute is a part of a key
-* Entity integrity: Condition in which each row in the table has its own unique idnetity
+* Entity integrity: Condition in which each row in the table has its own unique identity
   * All of the values in the primary key must be unique
   * No key attribute in the primary key can contain a null.
 * Null: 
-  * Absence of any data value that could represent: An unkown attribute value
+  * Absence of any data value that could represent: An unknown attribute value
   * A known, but missing attribute value
   * A inapplicable condition
 * Referential integrity: Every reference to an entity instance by another entity instance is valid.
