@@ -18,4 +18,5 @@
   * [Forms-and-CGI](csci571/forms-and-cgi.md)
   * [The-HTTP-Protocol](csci571/the-http-protocol.md)
   * [The Web Server](csci571/10-the-web-server.md)
+  * [Secure Web Communication and Web Server Performance](csci571/secure-web-communication-and-web-server-performance.md)
 
